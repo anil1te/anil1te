@@ -37,7 +37,7 @@ Hobbies: Watching Anime, Gaming and Listening Music
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=arch,bash,cpp,discord,docker,git,idea,obsidian,postman,vscode&perline=5" alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=java,cpp,bash,gradle,postman,vscode,idea,arch,kali,linux,discord,obsidian&perline=5" alt="My Skills"/> 
     </a>
 </p>
 </div>
