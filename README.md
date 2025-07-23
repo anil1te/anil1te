@@ -11,7 +11,7 @@ My hobbies include watching Anime, Gaming, fuck ars1ks, Music and late night wal
 l1te@arch: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/mao.png" width="130px"/>
+<img align="left" src="img/mao.jpg" width="130px"/>
 
 ```csharp
 My Profile
