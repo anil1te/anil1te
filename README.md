@@ -55,3 +55,12 @@ response:** [L1te](https://discord.com/users/698065378219262022)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/698065378219262022)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/anil1te)
 
+<br>
+
+<br>
+<br>
+<div align="center">
+    <p>
+        <img alt="count" src="https://count.getloli.com/@lite-visitors?name=lite-visitors&theme=random&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+    </p>
+</div>
