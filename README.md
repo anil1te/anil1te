@@ -61,6 +61,6 @@ response:** [L1te](https://discord.com/users/698065378219262022)
 <br>
 <div align="center">
     <p>
-        <img alt="count" src="https://count.getloli.com/@lite-visitors?name=lite-visitors&theme=random&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+        <img alt="count" src="https://count.getloli.com/@lite-visitors?name=lite-visitors&theme=booru-lewd">
     </p>
 </div>
